@@ -9,3 +9,8 @@ array.each do |number|
 end 
 sqaured_array
 end
+
+def square_array_with_map(array)
+  array.map do |number| 
+    number * number
+  end 
