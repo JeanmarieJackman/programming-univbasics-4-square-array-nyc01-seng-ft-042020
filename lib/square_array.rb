@@ -1,4 +1,5 @@
 # your code here
+array = []
 def square_array(array)
 sqaured_array = [] 
 counter = 0 
