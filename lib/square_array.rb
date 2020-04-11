@@ -5,7 +5,7 @@ def square_array(array)
 sqaured_array = [] 
 counter = 0 
 array.length.times do |index| 
-  sqaured_array << (number * number)
+  sqaured_array.push(array)
   counter += 1 
   end
 sqaured_array
