@@ -1,12 +1,12 @@
 # your code here
 
-counter = 0 
-numbers = []
 
-def square_array(numbers)
-  while counter < numbers.length do 
-  puts square_array.push(numbers[] ** 2)
+
+sqaured_array = [] 
+end 	counter = 0 
+array.each do |number| 
+  sqaured_array << (number * number)
   counter += 1 
-  end 
+end 
+sqaured_array
 end
-square_array
