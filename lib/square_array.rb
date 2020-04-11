@@ -1,5 +1,5 @@
 # your code here
-
+def square_array(array)
 sqaured_array = [] 
 counter = 0 
 array.each do |number| 
