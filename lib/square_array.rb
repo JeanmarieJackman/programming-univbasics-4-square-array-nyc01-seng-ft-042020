@@ -1,7 +1,5 @@
 # your code here
 
-
-
 sqaured_array = [] 
 counter = 0 
 array.each do |number| 
